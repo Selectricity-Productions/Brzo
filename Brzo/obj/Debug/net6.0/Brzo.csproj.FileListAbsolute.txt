@@ -1,0 +1,27 @@
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/bin/Debug/net6.0/Brzo
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/bin/Debug/net6.0/Brzo.deps.json
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/bin/Debug/net6.0/Brzo.runtimeconfig.json
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/bin/Debug/net6.0/Brzo.dll
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/bin/Debug/net6.0/Brzo.pdb
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/bin/Debug/net6.0/MonoGame.Framework.dll
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/bin/Debug/net6.0/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/bin/Debug/net6.0/runtimes/linux-x64/native/libopenal.so.1
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/bin/Debug/net6.0/runtimes/osx/native/libSDL2.dylib
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/bin/Debug/net6.0/runtimes/osx/native/libopenal.1.dylib
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/bin/Debug/net6.0/runtimes/win-x64/native/SDL2.dll
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/bin/Debug/net6.0/runtimes/win-x64/native/soft_oal.dll
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/bin/Debug/net6.0/runtimes/win-x86/native/SDL2.dll
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/bin/Debug/net6.0/runtimes/win-x86/native/soft_oal.dll
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/obj/Debug/net6.0/Brzo.csproj.AssemblyReference.cache
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/obj/Debug/net6.0/Brzo.GeneratedMSBuildEditorConfig.editorconfig
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/obj/Debug/net6.0/Brzo.AssemblyInfoInputs.cache
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/obj/Debug/net6.0/Brzo.AssemblyInfo.cs
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/obj/Debug/net6.0/Brzo.csproj.CoreCompileInputs.cache
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/obj/Debug/net6.0/Brzo.csproj.CopyComplete
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/obj/Debug/net6.0/Brzo.dll
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/obj/Debug/net6.0/refint/Brzo.dll
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/obj/Debug/net6.0/Brzo.pdb
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/obj/Debug/net6.0/Brzo.genruntimeconfig.cache
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/obj/Debug/net6.0/ref/Brzo.dll
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/bin/Debug/net6.0/Content/Sprites/tl light.xnb
+/home/ann/Documenten/Rermi/Code/VSCODE/Projects/Brzo/Brzo/bin/Debug/net6.0/Content/tl_light.xnb
